@@ -27,7 +27,7 @@ public class HomeWork_6App {
         cat.Run(0);
         cat2.setSail(2);
 
-        System.out.println(Animal.counter());
+        System.out.println("Всего создано животных: " + Animal.counter());
 
 
 
